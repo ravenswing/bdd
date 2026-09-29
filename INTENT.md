@@ -55,6 +55,8 @@ If you are not sure about the criteria or there is a trade-off, ask questions to
 - the plan, process, and results of a benchmark set should be written up in the log
 - the process of the test should be completely reproducible from the information contained in the log
 - be as exhaustive as possible, but don't focus on technical details - focus on the what and why less the how.
+- this log is technical, meant to be read by more experienced people or agents.
+- it should still be clear, concise and easy to follow, but it should contain explicit and exact technical details to reproduce the "experiment".
 - the layout of this log should include (but not limited to) these headings:
   1. "## The problem"
   2. "## Potential solutions & hypothesis"
